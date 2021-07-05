@@ -1,6 +1,6 @@
 ### Hi there 👋, I am Ranjan Balappa
 
-🔭 I’m currently working on building MLOPS pipeline for computer vision projects.
+🔭 I’m currently working on building MLOPS for computer vision projects.
 
 
 
