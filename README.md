@@ -1,8 +1,8 @@
 ### Hi there 👋, I am Ranjan Balappa
 
-🔭 I build computer vison solutions for Wildlife conservation and Environment sustainabiltiy.
-🌱 I am learning better ways to deploy MLModels.
-📫 You can reach me @ranjan.balappa@gmail.com
+- 🔭 I build computer vison solutions for Wildlife conservation and Environment sustainabiltiy.
+- 🌱 I am learning better ways to deploy MLModels.
+- 📫 You can reach me @ranjan.balappa@gmail.com.
 
 
 
