@@ -1,6 +1,8 @@
 ### Hi there 👋, I am Ranjan Balappa
 
-🔭 I’m currently working on building MLOPS for computer vision projects.
+🔭 I build computer vison solutions for Wildlife conservation and Environment sustainabiltiy.
+🌱 I am learning better ways to deploy MLModels.
+📫 You can reach me @ranjan.balappa@gmail.com
 
 
 
